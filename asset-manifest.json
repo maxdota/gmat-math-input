@@ -1,20 +1,17 @@
 {
   "files": {
-    "main.css": "/gmat-math-input/static/css/main.6dd4da84.css",
-    "main.js": "/gmat-math-input/static/js/main.10bf86af.js",
-    "static/js/453.2cb7f062.chunk.js": "/gmat-math-input/static/js/453.2cb7f062.chunk.js",
+    "main.css": "/gmat-math-input/static/css/main.f4f609b9.css",
+    "main.js": "/gmat-math-input/static/js/main.71eb29a3.js",
+    "static/js/206.2f32aba8.chunk.js": "/gmat-math-input/static/js/206.2f32aba8.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/gmat-math-input/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/gmat-math-input/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/gmat-math-input/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/gmat-math-input/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/gmat-math-input/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/gmat-math-input/index.html",
-    "main.6dd4da84.css.map": "/gmat-math-input/static/css/main.6dd4da84.css.map",
-    "main.10bf86af.js.map": "/gmat-math-input/static/js/main.10bf86af.js.map",
-    "453.2cb7f062.chunk.js.map": "/gmat-math-input/static/js/453.2cb7f062.chunk.js.map"
+    "index.html": "/gmat-math-input/index.html"
   },
   "entrypoints": [
-    "static/css/main.6dd4da84.css",
-    "static/js/main.10bf86af.js"
+    "static/css/main.f4f609b9.css",
+    "static/js/main.71eb29a3.js"
   ]
 }
